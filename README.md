@@ -19,7 +19,6 @@ BSc Software Engineering graduate (University of Stirling) building AI-powered s
 ## 📫 Get in touch
 
 - Email: ainsleykeenemonforte@gmail.com
-- LinkedIn: *(add your link here)*
 
 ---
 ⭐️ Currently exploring: the theory behind LLMs, RAG, and agentic systems — going deeper past the "how to build it" into the "why it works."
