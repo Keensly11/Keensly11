@@ -13,10 +13,10 @@ BSc Software Engineering graduate (University of Stirling) building AI-powered s
 ## 🛠️ Tech I work with
 
 **Languages:** Python, Java, JavaScript
-**AI / LLM Engineering:** RAG, Agentic Tool Use / Function Calling, Prompt Engineering, Vector Databases (ChromaDB), LLM APIs (Gemini, local models via Ollama), Structured Extraction & Validation
+**AI / LLM Engineering:** RAG, Agentic Tool Use / Function Calling, MCP (Model Context Protocol), Prompt Engineering, Vector Databases (ChromaDB), LLM APIs (Gemini, local models via Ollama), Structured Extraction & Validation
 **Machine Learning:** LightGBM, XGBoost, Random Forest, scikit-learn
-**Data & Infrastructure:** Apache Kafka, WebSockets, PostgreSQL, MongoDB, REST APIs
-**Tools:** Docker, Git, React Native, JWT, n8n
+**Data & Infrastructure:** Apache Kafka, WebSockets, PostgreSQL, MongoDB, SQLAlchemy, REST APIs
+**Tools:** Docker, Git, Flask, React Native, JWT, n8n
 
 ## 📫 Get in touch
 
