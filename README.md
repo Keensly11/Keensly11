@@ -4,6 +4,7 @@ BSc Software Engineering graduate (University of Stirling) building AI-powered s
 
 ## 🔭 What I've built
 
+- **[Tech Lead Engine](https://github.com/Keensly11/Tech-Lead-Engine)** — An AI pipeline that spots UAE companies with buying signals in the news, finds their contact emails, and drafts grounded outreach with a local LLM, sending only after human approval. Includes an MCP server so an AI assistant can query and operate the pipeline.
 - **[Lab Sample Intake Agent](https://github.com/Keensly11/intake-agent-demo)** — A single-agent workflow that extracts structured fields from documents via a local LLM, validates them against business rules, and flags uncertain records for human review instead of silently trusting AI output.
 - **[NASA AI Research Assistant](https://github.com/Keensly11/Nasa-AI-Research-Assistant)** — An agentic RAG system that answers questions from NASA research PDFs, with automatic fallback to live web search when the answer isn't in the documents.
 - **[UAE Lead Gen AI](https://github.com/Keensly11/UAE-Lead-Gen-AI)** — An AI pipeline that finds, scores, and enriches business leads for a UAE licensing firm, with confidence-flagged contact data and personalized outreach drafts.
