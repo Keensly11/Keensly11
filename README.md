@@ -10,6 +10,11 @@ BSc Software Engineering graduate (University of Stirling) building AI-powered s
 - **[UAE Lead Gen AI](https://github.com/Keensly11/UAE-Lead-Gen-AI)** — An AI pipeline that finds, scores, and enriches business leads for a UAE licensing firm, with confidence-flagged contact data and personalized outreach drafts.
 - **[CarbonLife](https://github.com/Keensly11/carbonlife-project)** — My final year honours dissertation: a real-time sustainability app combining a Kafka/WebSocket streaming pipeline with dual ML + NILM recommendation systems (86% accuracy) to help UAE residents cut their carbon footprint.
 
+## 🌐 Live websites
+
+- **[Vriksha Tech Solutions](https://vrikshatec.com)** — Full e-commerce store for a Dubai technology hardware reseller: product catalog, cart and checkout with live UAE card payments, wholesale pricing, and an admin dashboard. Built with Next.js, TypeScript, Prisma and PostgreSQL.
+- **[Fosutog](https://fosutog.com)** — SEO-optimised landing page for a computer hardware store in Bur Dubai, with structured data for local search. Static HTML/CSS, deployed on Hostinger.
+
 ## 🛠️ Tech I work with
 
 **Languages:** Python, Java, JavaScript
