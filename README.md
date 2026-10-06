@@ -1,6 +1,6 @@
 # Hi, I'm Ainsley Keene Monforte
 
-Full-stack software engineer based in the UAE, with a BSc in Software Engineering from the University of Stirling. I build and ship complete products end to end — production web apps like e-commerce stores with live payments and admin dashboards, as well as AI-powered systems, from agentic RAG pipelines and LLM automation to ML-driven mobile apps.
+AI engineer based in the UAE, with a BSc (Hons) in Software Engineering from the University of Stirling. I build AI-powered systems — agentic RAG pipelines, LLM automation with human-in-the-loop review, and ML-driven apps — and as a full-stack software engineer I ship the complete product around them, from backend pipelines to production web apps like e-commerce stores with live payments.
 
 ## What I've built
 
@@ -17,11 +17,12 @@ Full-stack software engineer based in the UAE, with a BSc in Software Engineerin
 
 ## Tech I work with
 
-**Languages:** Python, Java, JavaScript
+**Languages:** Python, Java, JavaScript, TypeScript
 **AI / LLM Engineering:** RAG, Agentic Tool Use / Function Calling, MCP (Model Context Protocol), Prompt Engineering, Vector Databases (ChromaDB), LLM APIs (Gemini, local models via Ollama), Structured Extraction & Validation
 **Machine Learning:** LightGBM, XGBoost, Random Forest, scikit-learn
+**Web / Full-Stack:** Next.js, React, Tailwind CSS, Prisma, Auth.js, Flask
 **Data & Infrastructure:** Apache Kafka, WebSockets, PostgreSQL, MongoDB, SQLAlchemy, REST APIs
-**Tools:** Docker, Git, Flask, React Native, JWT, n8n
+**Tools:** Docker, Git, React Native, JWT, n8n
 
 ## Get in touch
 
